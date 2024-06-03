@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "A high-performance laptop suitable for gaming and professional work.",
+    "price": 1200,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "description": "A latest-generation smartphone with an advanced camera system.",
+    "price": 800,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "description": "Noise-cancelling headphones with high-quality sound reproduction.",
+    "price": 150,
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "description": "A smartwatch with fitness tracking and mobile connectivity.",
+    "price": 250,
+    "available": true
+  }
+]
