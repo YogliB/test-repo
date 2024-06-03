@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "productId": 2,
+    "quantity": 1,
+    "userId": 4,
+    "date": "2023-09-01"
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "quantity": 2,
+    "userId": 1,
+    "date": "2023-09-02"
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "quantity": 3,
+    "userId": 2,
+    "date": "2023-09-03"
+  },
+  {
+    "id": 4,
+    "productId": 4,
+    "quantity": 1,
+    "userId": 3,
+    "date": "2023-09-04"
+  }
+]
